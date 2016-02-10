@@ -1,0 +1,31 @@
+{
+  "name": "npm-username",
+  "version": "1.0.0",
+  "description": "Check availability of username in npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashantbaid/npm-username.git"
+  },
+  "keywords": [
+    "npm",
+    "username",
+    "user",
+    "availability"
+  ],
+  "author": "Prashant Baid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prashantbaid/npm-username/issues"
+  },
+  "bin": {
+    "npm-username": "index.js"
+  },
+  "homepage": "https://github.com/prashantbaid/npm-username#readme",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
