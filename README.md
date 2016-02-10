@@ -1,5 +1,5 @@
 # npm-username
-Check the availability of npm username when doing ```npm adduser```
+Check the availability of npm username. Comes in handy when doing  ```npm adduser```
 
 
 ## Install
