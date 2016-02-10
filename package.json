@@ -1,6 +1,6 @@
 {
   "name": "npm-username",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Check availability of username in npm",
   "main": "index.js",
   "scripts": {
